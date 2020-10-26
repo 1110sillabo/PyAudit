@@ -9,7 +9,7 @@
 Auditing Demos 
 ==============
 
-The following demos are designed to show how to use ``PyAudit`` to aduit ``pd.DataFrame``. 
+The following demos are designed to show how to use ``PyAudit`` to audit ``pd.DataFrame``. 
 
 Auditing in one function 
 ++++++++++++++++++++++++
